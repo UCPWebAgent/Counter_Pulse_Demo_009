@@ -1,0 +1,11 @@
+{
+  "name": "Counter_Pulse_Demo_009",
+  "description": "Counter_Pulse_Demo_009",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
